@@ -1,6 +1,6 @@
-# Good Weather Today
+# Lovely Flower Shop
 
 <p align="center">
-<img src="horse.jpg"/>  
+<img src="flowershop.jpeg"/>  
 </p>
-<p align="center"> Figure 1. Image of a horse feeling sorry, which resembles my feelings
+<p align="center"> Figure 1. A nice flower shop I saw in London today.
