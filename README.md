@@ -1,4 +1,4 @@
-# Rubbish is Sorry
+# Good Weather Today
 
 <p align="center">
 <img src="horse.jpg"/>  
