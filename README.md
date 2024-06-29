@@ -2,13 +2,13 @@
 A helper for japan trip.
 
 ## Utilities
-- Weather: https://www.japan.travel/en/weather/  
+- Weather: [Link Here ☀️ 🌥](https://www.japan.travel/en/weather/  )
   
-- Coin Lockers: https://coinlocker.click/  
+- Coin Lockers: [Link Here 🔒](https://coinlocker.click/) 
   
-- TabeLog 百名店: https://award.tabelog.com/hyakumeiten  
+- TabeLog 百名店: [Link Here 🍲 🍊 🫛 🥟 ☕ 🍧](https://award.tabelog.com/hyakumeiten)
   
-- JR West Map: https://global.trafficinfo.westjr.co.jp/tc/  
+- JR West Map: [Link Here  🗺️ ](https://global.trafficinfo.westjr.co.jp/tc/)  
 
 
 ## 広島  
@@ -16,21 +16,21 @@ A helper for japan trip.
 <img src="hiroshima.jpg" width="400"/>  
 </p>
 
-- Tabelog ranking: https://tabelog.com/hiroshima/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2  
+- Tabelog ranking: [Link Here 🍴](https://tabelog.com/hiroshima/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2)
 
-- Tourist pass: https://tw.wamazing.com/ticket/tickets/visit_hiroshima_tourist_pass  
+- Hiroshima Tourist Pass: [Link Here 🎫](https://tw.wamazing.com/ticket/tickets/visit_hiroshima_tourist_pass)
   
-- Official Hiroshima info: https://dive-hiroshima.com/tw/  
+- Official Hiroshima Info: [Link Here 🔗](https://dive-hiroshima.com/tw/)
 
 
 ## 倉敷  
 <p align="center">
-<img src="kurashiki.jpeg" width="400"/>  
+<img src="kurashiki.jpeg" width="400"/>     
 </p>
 
-- 倉敷 Tabelog Ranking: https://tabelog.com/okayama/C33202/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2  
+- 倉敷 Tabelog Ranking: [Link Here 🍴](https://tabelog.com/okayama/C33202/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2)
   
-- Tourist blog: https://journey.tw/go-kurashiki-city/  
+- Tourist blog: [Link Here 📝](https://journey.tw/go-kurashiki-city/ )
 
 
 
