@@ -15,7 +15,6 @@ A helper for japan trip.
 <p align="center">
 <img src="hiroshima.jpg" width="400"/>  
 </p>
-<p align="center"> 
 
 - Tabelog ranking: https://tabelog.com/hiroshima/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2  
 
@@ -28,7 +27,6 @@ A helper for japan trip.
 <p align="center">
 <img src="kurashiki.jpeg" width="400"/>  
 </p>
-<p align="center"> 
 
 - 倉敷 Tabelog Ranking: https://tabelog.com/okayama/C33202/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2  
   
@@ -40,7 +38,6 @@ A helper for japan trip.
 <p align="center">
 <img src="osaka.jpg" width="400"/>  
 </p>
-<p align="center"> 
 
 🚧 Under Construction! 🚧  
 
