@@ -1,4 +1,4 @@
-.
+# .
 <!-- # Japan Trip Helper
 A helper for japan trip.
 
