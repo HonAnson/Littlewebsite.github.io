@@ -3,6 +3,7 @@
 A helper for japan trip.
 
 
+
 ## Utilities
 - Weather: <a href="https://www.japan.travel/en/weather/" target="_blank">Link Here ☀️ 🌥</a>
 
@@ -69,7 +70,7 @@ A helper for japan trip.
 
 - 倉敷 Tabelog Ranking: [Link Here 🍴](https://tabelog.com/okayama/C33202/rstLst/?Srt=D&SrtT=rvcn&svd=20240630&svt=1900&svps=2){:target="_blank"}
   
-- Tourist blog: [Link Here 📝](https://journey.tw/go-kurashiki-city/){:target="_blank"} -->
+- Tourist blog: [Link Here 📝](https://journey.tw/go-kurashiki-city/){:target="_blank"} 
 
 
 
