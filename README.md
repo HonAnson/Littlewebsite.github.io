@@ -1,4 +1,5 @@
-# Japan Trip Helper
+.
+<!-- # Japan Trip Helper
 A helper for japan trip.
 
 
@@ -79,7 +80,7 @@ A helper for japan trip.
 
 🚧 Under Construction! 🚧  
 
-
+ -->
 
 <!-- 
 <p align="center">
