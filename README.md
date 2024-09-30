@@ -2,6 +2,7 @@
 
 ## Utility
 * Map: <a href = "https://www.google.com/maps/d/edit?mid=1NjCiEKEqH52f1iyqM8s2l0BiHiMQXes&usp=sharing" target = "_blank"> Click me </a>
+* Itinery: <a href = "https://docs.google.com/spreadsheets/d/1-gaQoc0Bxgte-U-xIwbc5tuFrMm51PGTop1EI3vAYhA/edit?gid=0#gid=0" target = "_blank"> Click me </a>
 * 台北到基隆: <a href = "https://github.com/HonAnson/Littlewebsite.github.io.githttps://taiwanplay.com/taipei-keelung/#%E5%8F%B0%E5%8C%97%E5%88%B0%E5%9F%BA%E9%9A%86%E7%9A%84%E5%A4%A7%E7%9C%BE%E9%81%8B%E8%BC%B8" target = "_blank"> Click me </a>
 * 台北到宜蘭: <a href = "https://taiwanplay.com/taipei-yilan/" target = "_blank"> Click me </a>
 
